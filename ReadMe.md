@@ -80,14 +80,14 @@ python Whi_trans.py
    - [PyTorch 공식 웹사이트](https://pytorch.org/get-started/locally/)에서 CUDA 12.1에 맞는 정확한 설치 명령을 확인하세요.
   
 5. **PyQt5 missing** 오류
-```bash
-pip uninstall PyQt5
-pip install PyQt5
-```
+   ```bash
+   pip uninstall PyQt5
+   pip install PyQt5
+   ```
 
 6. **NLTK 데이터 누락** 오류
-```bash
-python -c "import nltk; nltk.download('punkt')"
-python -c "import nltk; nltk.download('punkt_tab')"
-python -c "import nltk; nltk.download('stopwords')"
-```
+   ```bash
+   python -c "import nltk; nltk.download('punkt')"
+   python -c "import nltk; nltk.download('punkt_tab')"
+   python -c "import nltk; nltk.download('stopwords')"
+   ```
