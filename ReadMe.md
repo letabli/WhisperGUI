@@ -1,7 +1,5 @@
 My laptop is on **Window 11**, **Cuda toolkit 12.1.1** and **Anaconda**.
 
-Whisper_GUI.py 파일을 실행하기 위해서는 여러 라이브러리가 필요합니다. 코드를 살펴보니 OpenAI의 Whisper, 텍스트 요약 기능, 번역 기능 등이 포함된 Python 응용 프로그램입니다. 아래에 필요한 모든 종속성과 설치 방법을 안내해 드리겠습니다.
-
 ## 필요한 패키지 목록:
 
 1. PyQt5 - GUI 프레임워크
